@@ -2,6 +2,8 @@
 
 Afira ChatBotAI is a custom-built retrieval-based chatbot, powered by TF-IDF + Logistic Regression, designed to demonstrate AI capabilities for a personal portfolio.
 
+<img width="943" height="739" alt="Afira1" src="https://github.com/user-attachments/assets/931654ae-bb9b-4fd1-9314-5bee84fdae9e" />
+
 ## Key Features
 
   * 1159 patterns across 20 intents, including greetings, goodbyes, compliments, predictions, weather queries, and more.
